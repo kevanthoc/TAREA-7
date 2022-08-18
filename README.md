@@ -513,16 +513,133 @@ n = 100
 
 100(16)= 1.5k V 
 
+14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
+
+![image](https://user-images.githubusercontent.com/105686218/185420802-de870b59-48ae-4cc2-8e88-0a91336dd181.png)
+
+Isec = (1/n)xIpri
+
+Isec = (1/3)x100mA = 33mA
+
+Rpri = 20V/0.1A = 200Ω
+
+Rpri = (1/n)x(1/n)xRl
+
+Rl = Rpri/((1/n)x(1/n))
+
+Rl = 200Ω/((1/n)x(1/n)) = 1800Ω
+
+16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
+
+![image](https://user-images.githubusercontent.com/105686218/185420967-ac6d6040-dc05-4212-bb1a-99ea0fd4f2a0.png)
+
+Rpri = (1/n)(1/n)
+
+Rl = (1/5)*(1/5)*(680) = 27.2 Ω
+
+Igualación de impedancia
 
 
+18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Ω
+
+![image](https://user-images.githubusercontent.com/105686218/185421325-bb318015-bedd-4d98-82b3-a4da6d40e344.png)
+
+N= raiz(Rl/Rpri) = raiz(4/16) = 0.5
 
 
+20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Æ. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.
 
 
+![image](https://user-images.githubusercontent.com/105686218/185421435-6c4f99f3-6911-4499-9b5d-d707aaab5445.png)
 
+Características de un transformador no ideal
 
+22. ¿Cuál es la eficiencia del transformador en el problema 21?
 
+Pentrada = 100W
 
+Psalidad = 94.5W
+
+n = (Psal/Pent)100%
+
+n = (100/94.5)100% = 94.5%
+
+24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V.
+
+(a) ¿Cuál es la corriente máxima en la carga?
+
+ILi1 = Psec/Vsec = 5kVA/120 = 0.042kA = 42A
+
+ILi1 = Psec/Vsec = 5kVA/600 = 0.008kA = 8A
+ 
+La corriente máxima en la carga es de 42A
+
+(b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
+
+Il1= 42A
+
+V=120
+
+Rli1=V/IL=120/42=2.86 Ω
+
+Il2=8A
+
+V=600V
+
+Rli2=V/IL=600/8=72.03 Ω
+
+El valor de RL mas pequeño es de 2.86 Ω
+
+26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
+
+(a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
+
+Vsec=nVpri
+
+n=Vsec/Vpri=120V/2400V = 0.05
+
+(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
+
+I=Psec/Vsec
+
+I=5kVA/2400V=0.002kA=2A
+
+Transformadores con tomas y devanados múltiples
+
+28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario
+
+![image](https://user-images.githubusercontent.com/105686218/185421610-0c660f10-2a64-4c4d-85f4-fe587d6eee6c.png)
+
+Vsec=nVpri
+
+n1=V1/Vpri=24V/12V=2
+
+n3=V1/Vpri=6V/12V=0.5
+
+n3=V1/Vpri=3V/12V=0.25
+
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
+
+![image](https://user-images.githubusercontent.com/105686218/185421668-35455c5f-93a7-4eda-bc6f-45a8f546106f.png)
+
+Vsec=nVpri
+
+Vsec=(0.1)(240)=24V
+
+Vsec=(0.2)(240)=48V
+
+Vsec=(0.5)(240)=120V
+
+Vsec=(1)(240)=240V
+
+32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
+
+Devanado primario abierto. Reemplace el transformador
+Si los cortocircuitos primarios, se extrae una corriente excesiva que potencialmente puede quemar la fuente y/o el transformador a menos que el primario esté protegido por fusible
+
+34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?
+
+Algunos de los devanados secundarios, pero no todos, están en cortocircuito o el voltaje primario es inferior al esperado.
 
 ***
 
