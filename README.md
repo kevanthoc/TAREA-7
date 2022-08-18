@@ -651,6 +651,9 @@ https://youtu.be/QlM6j1jckHk
 
 **CONCLUSIONES**
 
+-Despues del respectvo desarrollo de cada una de las diferentes actividades se puede concluir que es necesario la observqacion y el planteamiento siempre de cada uno de los diferentes problemas que se presneten, com por ejemplo saber distinguir cuando se debe sacar o utilizar una formula o emplear otra.
+
+-Tomar en cuenta la medida de un simulador portable o en linea que nos ayude a calcular con mayor exactitud las medidas exactas para el debido analisis
 
 ***
 **BIBLIOGRAFIA**
