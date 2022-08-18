@@ -63,8 +63,15 @@ CAPITULO 14
 
 ***
 
+![image](https://user-images.githubusercontent.com/105686218/185387686-3bf318d6-93df-4b2b-9e6e-0759a2e00ff7.png)
 
+![image](https://user-images.githubusercontent.com/105686218/185387733-f10038bc-394b-4bdc-80b8-da6092fe077f.png)
 
+![image](https://user-images.githubusercontent.com/105686218/185387761-6766d9f6-bb7b-4e25-b750-33924614a5ef.png)
+
+![image](https://user-images.githubusercontent.com/105686218/185387839-d71a6cb6-f0d0-4871-b6bd-8ddccb3c5b55.png)
+
+![image](https://user-images.githubusercontent.com/105686218/185387878-a2f30921-7e58-4a06-bd4a-23845e409654.png)
 
 
 
